@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me linkedin
+- 📫 You can connect with me via linkedin
 
 
 <!---
