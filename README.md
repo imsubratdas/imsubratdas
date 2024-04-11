@@ -52,16 +52,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=imsubratdas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://as1.ftcdn.net/v2/jpg/02/33/38/00/1000_F_233380090_qwnDCLJHtdxGnhJqv7SEyinzrkRs8jep.jpg"  />
-
-###
-
 <img src="https://raw.githubusercontent.com/imsubratdas/imsubratdas/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=imsubratdas&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imsubratdas&radius=15&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
