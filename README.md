@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hi ! I am Subrat Das</h2>
+<h1 align="center">Hi ! I am Subrat Das</h1>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left">👩‍💻 About Me</h4>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h4 align="left">🛠 Language and tools</h4>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h4 align="left">🕹️ Social accounts</h4>
+<h3 align="left">🕹️ Social accounts</h3>
 
 ###
 
