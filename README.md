@@ -56,6 +56,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/imsubratdas/imsubratdas/output/snake.svg" alt="Snake animation" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/imsubratdas/imsubratdas/output/github-contribution-grid-snake.svg" />
 
 ###
