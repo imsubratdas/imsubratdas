@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Subrat Das from India<br><br>- 🔭 I’m a student at VITB<br>- 📚 I'm currently learning C++</p>
+<p align="left">I'm Subrat Das from India<br><br>- 🔭 I’m a student at VITB<br>- 📚 I'm currently learning about Web Development</p>
 
 ###
 
